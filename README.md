@@ -1,41 +1,89 @@
+# Hi 👋, I'm Rafael
 
-<h1 align="center">Rafael</h1> <p align="center"> Desenvolvedor em formacao, criando sites, sistemas e jogos com HTML, CSS, JavaScript e Python. </p> <p align="center"> <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </p>
-Sobre mim
-Ola! Meu nome e Rafael e sou estudante do curso tecnico de Desenvolvimento de Sistemas.
-Tenho grande interesse por tecnologia e programacao, areas que despertaram minha curiosidade e vontade de aprender cada vez mais.
+🚀 **Desenvolvedor em formacao | HTML, CSS, JavaScript & Python**  
+🇧🇷 Brazil
+
+Sou estudante do curso tecnico de **Desenvolvimento de Sistemas** e tenho grande interesse por tecnologia,
+programacao, desenvolvimento web e criacao de jogos.
 
 Gosto de desenvolver projetos, explorar novas ferramentas e buscar solucoes criativas para diferentes desafios.
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, bancos de dados, logica de programacao e criacao de jogos.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web**, **bancos de dados**,
+**logica de programacao** e **game design**.
 
-Alem da programacao, tambem tenho interesse em game design e no processo de transformar ideias em experiencias interativas.
-Meu objetivo e evoluir constantemente minhas habilidades e participar de projetos que me permitam crescer profissionalmente e pessoalmente.
+---
 
-Tecnologias que estou estudando
-HTML
-CSS
-JavaScript
-Python
-Banco de dados
-Logica de programacao
-Desenvolvimento web
-Criacao de jogos
-Projetos
-Portfolio
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/Rafaelrrol5">
+    <img src="https://img.shields.io/badge/GitHub-RAFAELRROL5-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+- 🖥️ Desenvolvimento de sites responsivos
+- 🎮 Ideias e conceitos para jogos
+- 🧩 Logica de programacao
+- 🗄️ Estudos em bancos de dados
+- ⚙️ Sistemas simples com foco em aprendizado
+- 🎨 Interfaces criativas com identidade visual
+- 📚 Aprendizado constante em tecnologia
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Studies
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Database](https://img.shields.io/badge/Banco%20de%20Dados-111111?style=for-the-badge)
+![Game Design](https://img.shields.io/badge/Game%20Design-4D0615?style=for-the-badge)
+
+---
+
+## 🚀 Projects
+
+### Portfolio
+
 Meu portfolio pessoal com visual dark em pixel art, criado para apresentar minha trajetoria, meus projetos e minhas habilidades.
 
-JoJo
+### JoJo
+
 Projeto com tema de JoJo, desenvolvido para praticar HTML, CSS e organizacao visual de paginas web.
 
-Ashen Veil
+### Ashen Veil
+
 Conceito de jogo metroidvania 2D com exploracao, combate rapido, parry, chefes desafiadores e atmosfera cyberpunk pos-apocaliptica.
 
-O que eu gosto de criar
-Sites com identidade visual propria
-Paginas responsivas
-Projetos escolares bem apresentados
-Ideias de jogos
-Interfaces com estilo criativo
-Experiencias interativas
-Perfil
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rafaelrrol5&show_icons=true&theme=dark&hide_border=true" alt="Estatisticas do GitHub" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrrol5&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" /> </p>
-<p align="center"> Sempre aprendendo, criando e transformando ideias em projetos reais. </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafaelrrol5&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrrol5&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Tecnologia e uma ferramenta poderosa para criar solucoes, conectar pessoas e transformar ideias em realidade."_
+
+---
+
+⭐ Sempre aprendendo, criando e transformando ideias em projetos reais.
