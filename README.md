@@ -71,11 +71,15 @@ Conceito de jogo metroidvania 2D com exploracao, combate rapido, parry, chefes d
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafaelrrol5&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrrol5&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/Rafaelrrol5?tab=repositories">
+    <img src="https://img.shields.io/badge/Meus%20Repositorios-181717?style=for-the-badge&logo=github" alt="Meus repositorios" />
+  </a>
+  <a href="https://github.com/Rafaelrrol5">
+    <img src="https://img.shields.io/badge/GitHub-Rafaelrrol5-111111?style=for-the-badge&logo=github" alt="Perfil GitHub" />
+  </a>
 </p>
 
 ---
